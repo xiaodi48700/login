@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  color: #61dafb;
+  background-color: blueviolet;
+}
+.Acs {
+  width: 20px;
+  height: 20px;
+  top:20px;
 }
 
 .App-logo {
